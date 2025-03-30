@@ -1,2 +1,3 @@
 # GYM-PROJECT
-GYM-PROJECT
+
+Tutaj bedzie cos
